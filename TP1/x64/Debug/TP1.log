@@ -1,0 +1,4 @@
+﻿  TP1.cpp
+C:\Users\emsam\OneDrive\Documents\GitHub\TP-dvpt-objet\TP1\TP1.cpp(23,7): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\emsam\OneDrive\Documents\GitHub\TP-dvpt-objet\TP1\TP1.cpp(24,10): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  TP1.vcxproj -> C:\Users\emsam\OneDrive\Documents\GitHub\TP-dvpt-objet\TP1\x64\Debug\TP1.exe
